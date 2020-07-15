@@ -1,8 +1,4 @@
-@ Example file
-@ Enable dev mode in discord and right click on what you need to get IDs. For custom emote IDs, write \ followed by the emote.
-@ Fill it properly and then delete those three lines, + all the < comments >
-{
-    "tokens" : {
+
         "discord" : "NzIwOTY3NjkxMzcyMDY4ODc0.Xw7VAg.wSHXcyUtrha9nknSB6v9keaVu4I",
         "drive" : "drive folder id (found in the folder url), not your drive access token. between quotes"
         "upload" : "currently unused. drive folder id in which the bot can save files",
