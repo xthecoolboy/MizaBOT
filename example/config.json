@@ -3,7 +3,7 @@
 @ Fill it properly and then delete those three lines, + all the < comments >
 {
     "tokens" : {
-        "discord" : "discord bot token here. between quotes",
+        "discord" : "NzIwOTY3NjkxMzcyMDY4ODc0.Xw7VAg.wSHXcyUtrha9nknSB6v9keaVu4I",
         "drive" : "drive folder id (found in the folder url), not your drive access token. between quotes"
         "upload" : "currently unused. drive folder id in which the bot can save files",
         "files" : "drive folder id from which the bot can retrieve files"
@@ -21,10 +21,10 @@
         "access_secret" : ""
     },
     "ids" : {
-        "debug_channel" : <id of the channel where the bot will write debug infos. all ids are numbers, so no quotes>,
+        "debug_channel" : <732655898132217877>,
         "debug_server" : <id of the server where the bot will write debug infos.>,
-        "owner" : <your discord user id.>,
-        "you_server" : <id of my guild. you'll have to edit that out or use your own.>,
+        "owner" : <376384142599782410>,
+        "you_server" : <718073517987463228>,
         "you_general" : <id of my guild general channel. you'll have to edit that out or use your own.>,
         "you_pinned" : <id of my guild pinboard channel. you'll have to edit that out or use your own.>,
         "you_announcement" : <id of my guild announcement channel. you'll have to edit that out or use your own.>,
